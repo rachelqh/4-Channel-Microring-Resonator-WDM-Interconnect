@@ -6,8 +6,16 @@ Key parameters, such as mode index and group index were found using standard wav
 
 # Results
 
+<p align="center">
+<img width="480" height="360" alt="6secmicroringresonator-ezgif com-optimize" src="https://github.com/user-attachments/assets/e61b717b-dcf0-44a5-9a4f-fcd88e70355c" /></p>
 
-<img width="480" height="360" alt="6secmicroringresonator-ezgif com-optimize" src="https://github.com/user-attachments/assets/e61b717b-dcf0-44a5-9a4f-fcd88e70355c" />
+<p align="center">
+<em>Figure 1: FDTD Simulation of coupling from microring resonator. The wavelengths that enter the ring are tuned to resonate and increase in amplitude with each round-trip length, then get coupled to the output wavelength. The red colour represents optical power circulating.</em>  </p>
+
+
+--PLACEHOLDER--  
+
+<em>Figure 2: Interconnect eye diagram results. As shown, all 4 channels have clear eye diagrams, demonstrating signal integrity. </em>
 
 
 # Schematic Screenshots
@@ -15,13 +23,13 @@ Key parameters, such as mode index and group index were found using standard wav
 <img width="841" height="611" alt="image" src="https://github.com/user-attachments/assets/cd327b47-b043-4e44-9dc6-9b5170069efd" />
 
 <p align="center">
-Screenshot of 2 channel system to clearly demonstrate architecture  
+<em>Figure 3: Screenshot of 2 channel system to clearly demonstrate architecture  </em>
   
 </p>
 
 <img width="887" height="669" alt="image" src="https://github.com/user-attachments/assets/1d1d9694-c7bd-4897-aeac-6aafbff8f18b" />
 
 <p align="center">
-Screenshot of full, 4 channel system  
+<em>Figure 4: Screenshot of full, 4 channel system  </em>
 
 </p>
