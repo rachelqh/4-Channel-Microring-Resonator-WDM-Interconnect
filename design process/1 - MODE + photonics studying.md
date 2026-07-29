@@ -28,8 +28,9 @@ I studied the following chapters from *Silicon Photonics Design: From Devices to
 
 # Finding Effective Index and Group index
 Initally, I used MATLAB Code from *Silicon Photonics Design: From Devices to Systems* to simulate a 1D waveguide and change parameters and get an understanding of how material and wavelength affects effective index.
-<img width="708" height="506" alt="image" src="https://github.com/user-attachments/assets/7d129fba-f436-4f0c-9b2e-d7af47262ad9" />
-<em><p = "center">Figure 1: Screenshot of MATLAB interface used to get preliminary numbers for effective index.</p></em>
+<p align = "center"><img width="708" height="506" alt="image" src="https://github.com/user-attachments/assets/7d129fba-f436-4f0c-9b2e-d7af47262ad9" /></p>  
+
+<p align = "center"><em>Figure 1: Screenshot of MATLAB interface used to get preliminary numbers for effective index.</p></em>
 
 
 Based on [Silicon microring resonators (PDF)](https://www.photonics.intec.ugent.be/download/pub_3105.pdf), I chose a substrate of SIO2, a core of pure silicon, and dimensions of 440nm x 220nm for my waveguide.
