@@ -23,12 +23,10 @@ I studied the following chapters to learn practical silicon photonics design tec
 
 ## Key Concepts Studied
 
-- Optical waveguide theory
-- Effective index and group index extraction
+- Optical waveguide and coupling theory
+- Effective index and group index
 - Optical resonators and resonance conditions
 - Free Spectral Range (FSR)
-- Optical coupling mechanisms
-- Modulation Methods
 - Photonic circuit modelling
 - Silicon photonic device design
 
