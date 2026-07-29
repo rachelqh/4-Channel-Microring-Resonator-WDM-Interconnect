@@ -6,3 +6,8 @@
 - Channel wavelengths: XXXX nm, XXXX nm, XXXX nm, XXXX nm
 - Ring radii (center ring): 5 μm
 - FSR: XX nm
+
+## Engineering Challenges
+- Determining ring radii required to achieve target resonance wavelengths
+- Managing channel spacing to minimize crosstalk
+- Managing parameters to maximize signal integrity while keeping designs manufaturable
