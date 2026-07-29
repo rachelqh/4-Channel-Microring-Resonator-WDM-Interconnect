@@ -33,3 +33,10 @@ Key parameters, such as mode index and group index were found using standard wav
 <em>Figure 4: Screenshot of full, 4 channel system  </em>
 
 </p>
+
+# Documentation Legend
+For more details on how this project was created, refer to:
+
+- The textbooks and concepts I studied to complete the project in [/.1 - MODE + photonics studying.md](./schematic/)
+- An interactive layout viewer with screenshots of the layout is in [/layout](./layout)
+- Design documents are in [/design](./design), and includes:
