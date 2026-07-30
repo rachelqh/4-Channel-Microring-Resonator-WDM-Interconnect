@@ -35,7 +35,7 @@ Initally, I used MATLAB Code from *Silicon Photonics Design: From Devices to Sys
 
 Based on [Silicon microring resonators (PDF)](https://www.photonics.intec.ugent.be/download/pub_3105.pdf), I chose a substrate of SIO2, a core of pure silicon, and dimensions of 440nm x 220nm for my waveguide.
 
-However, the 1D simulation didn't account for my specific waveguide dimensions, I used a more robust simulation in Lumerical MODE to get a more accurate index.
+However, the 1D simulation didn't account for my specific waveguide dimensions, I used a more robust simulation in Lumerical MODE to get a more accurate index. Following [this tutorial by Ansys Learning's Youtube channel](https://youtube.com/playlist?list=PLtt6-ZgUFmMILj7udPPHuE548CU8szDOl&si=sxzB1_YjphfEmioG), I modelled my waveguide.
 
 <p align = "center"><img width="570" height="491" alt="Screenshot 2026-07-15 154924" src="https://github.com/user-attachments/assets/d102f6bc-6382-45cf-a70a-71cf40bb10a9" /></p>
 <p align = "center"><em>Figure 2: Screenshot of MODE simulation used to find effective index. The black square is the waveguide, while the red colour is optical power.</p></em>
