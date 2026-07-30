@@ -1,5 +1,4 @@
 # FDTD Simulation
-I wanted to create a visualization of optical power coupling in a microring resonator, so I had to move to Lumerical FDTD.
 
 ## Setting up in FDTD
 Following [this tutorial by Ansys](https://optics.ansys.com/hc/en-us/articles/360042800293-Ring-resonator-getting-started-Design-and-initial-simulation) and changing some parameters such as waveguide dimensions and radius, I modeled a ring resonator with a power input source. 
