@@ -13,8 +13,11 @@ To find the resonant wavelength that would couple into the ring and into the out
 ## Making the visualization
 Using the resonant wavelength I found earlier, I set the global power source to "frequency" and set the pulse time to be roughly the same as my simulation time. This was to emulate a continuous laser at resonant frequency. I used a movie monitor to export a video, which I compressed into this gif.
 
-<img width="480" height="360" alt="6secmicroringresonator-ezgif com-optimize" src="https://github.com/user-attachments/assets/60fd57e4-be2f-47ed-a077-8fa4d11fd0d0" />
+<p align="center">
+<img width="480" height="360" alt="6secmicroringresonator-ezgif com-optimize" src="https://github.com/user-attachments/assets/e61b717b-dcf0-44a5-9a4f-fcd88e70355c" /></p>
 
+<p align="center">
+<em>Figure 1: Final result of FDTD Simulation of microring resonator. The red power at the top is the pulse emulating a continuous laser. </em>  </p>    
 
 
 ## Future Improvements
