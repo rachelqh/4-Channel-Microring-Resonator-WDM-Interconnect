@@ -1,5 +1,5 @@
 # INTERCONNECT Circuit
-The overall system is intended to be a ultra-fast light speed version of my Continuity-Test-Redesign. 
+The overall system is intended to be a ultra-fast light speed version of my Continuity-Test-Redesign. This document explains the existing architecture design as well as the original design.
 
 # Overall System design
 Current will be injected into 3 DUT's, where the differential voltages at both DUT pins can be used to calculate voltage. 6 ADCs are placed at the 6 DUT pins to convert an analog signal to a binary signal to be transmitted photonically. The information will be transmitted in the photonic IC detailed in [**INTERCONNECT Circuit**](./design%20process/3%20-%20INTERCONNECT%20Circuit.md), then recovered via photodiode and understood by the STM32 MCU.
