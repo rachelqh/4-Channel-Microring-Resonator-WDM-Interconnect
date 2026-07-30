@@ -6,8 +6,8 @@ The WDM transceiver IC consists of three independent optical channels operating 
 For more details on this project, refer to:
 - The textbooks and concepts I studied to complete the project and effective index calculations is detailed in [**MODE + photonics studying**](./design%20process/1%20-%20MODE%20%2B%20photonics%20studying.md)
 - The process used to create a a visual simulation of a microring resonator coupling optical power is detailed in [**FDTD Simulation**](./design%20process/2%20-%20FDTD%20Simulation.md)
-- The design of my custom photonic IC, including details on FSR, channel spacing, and other parameters is detailed in [**INTERCONNECT Circuit**](./design%20process/3%20-%20INTERCONNECT%20Circuit.md)
-- The overall purpose and system architecture, as well as the evolution of the design, detailed in [Architecture and Project Evolution][./design-process/4%20-%20Architecture%20and%20Project%20Evolution.md]
+- The design of my custom photonic IC, including details on FSR, channel spacing, and other parameters is detailed in [**INTERCONNECT Photonic IC**](./design%20process/3%20-%20INTERCONNECT%20Photonic%20IC.md)
+- The overall purpose and system architecture, as well as the evolution of the design, detailed in [**Architecture and Project Evolution**](./design%20process/4%20-%20Architecture%20and%20Project%20Evolution.md)
 
 # Results
 
