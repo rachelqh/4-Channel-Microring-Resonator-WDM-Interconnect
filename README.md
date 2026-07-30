@@ -26,7 +26,7 @@ For more details on how this project was created, refer to:
 
 # Schematic Screenshots
 
-The below screenshots show a preview of the circuit architecture used to create this project. More details can be found below.
+The below screenshots show the schematic of the custom photonic IC chip designed in this project. 
 <img width="841" height="611" alt="image" src="https://github.com/user-attachments/assets/cd327b47-b043-4e44-9dc6-9b5170069efd" />
 
 <p align="center">
