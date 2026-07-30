@@ -38,7 +38,7 @@ Based on [Silicon microring resonators (PDF)](https://www.photonics.intec.ugent.
 After getting a basic understanding of effective index, I used a more robust simulation in Lumerical MODE to get the exact index for my 2D waveguide.  
 
 <p align = "center"><img width="570" height="491" alt="Screenshot 2026-07-15 154924" src="https://github.com/user-attachments/assets/d102f6bc-6382-45cf-a70a-71cf40bb10a9" /></p>
-<p align = "center"><em>Figure 2: Screenshot of MODE simulation used to find effective index.</p></em>
+<p align = "center"><em>Figure 2: Screenshot of MODE simulation used to find effective index. The black square is the waveguide, while the red colour is optical power.</p></em>
 
 After viewing a few modes with a TE polarization fraction of 100, I chose a MODE which looked strongly confined in the waveguide but still could be reasonably coupled. This gave me an **effective index of 2.5** and a **group index of 4.44**.
 
