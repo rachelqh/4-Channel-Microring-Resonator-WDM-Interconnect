@@ -1,5 +1,7 @@
 # FDTD Simulation
-To create a visualization of the optical power coupling in a microring resonator, I had to move to FDTD.
+To create a visualization of the optical power coupling in a microring resonator, I had to move to Lumerical FDTD.
+
+# Creating the ring resonator
 
 ## Future Improvements
 Due to the significant compute times it took to generate these visualizations, I was unable to significantly iterate on my design. However, key things could be improved in the future:
