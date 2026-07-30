@@ -29,16 +29,17 @@ Key parameters, such as mode index and group index were found using standard wav
   
 </p>
 
-<img width="887" height="669" alt="image" src="https://github.com/user-attachments/assets/1d1d9694-c7bd-4897-aeac-6aafbff8f18b" />
+<img width="903" height="597" alt="image" src="https://github.com/user-attachments/assets/02c5990b-dba3-4c6c-8ca4-735ba19d0651" />
+
 
 <p align="center">
-<em>Figure 4: Screenshot of full, 4 channel system  </em>
+<em>Figure 4: Screenshot of full, 3 channel system  </em>
 
 </p>
 
 # Documentation Legend
 For more details on how this project was created, refer to:
 
-- The textbooks and concepts I studied to complete the project in [/.1 - MODE + photonics studying.md](./schematic/)
-- An interactive layout viewer with screenshots of the layout is in [/layout](./layout)
-- Design documents are in [/design](./design), and includes:
+- The textbooks and concepts I studied to complete the project and effective index calculations in **MODE + photonics studying**
+- The process and parameters used to create a a visual simulation of a microring resonator coupling in **FDTD Simulation**
+- The process used to create as well as details on FSR, channel spacing, and other parameters in **INTERCONNECT Circuit**
