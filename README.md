@@ -10,12 +10,14 @@ Key parameters, such as mode index and group index were found using standard wav
 <img width="480" height="360" alt="6secmicroringresonator-ezgif com-optimize" src="https://github.com/user-attachments/assets/e61b717b-dcf0-44a5-9a4f-fcd88e70355c" /></p>
 
 <p align="center">
-<em>Figure 1: FDTD Simulation of coupling from microring resonator. The wavelengths that enter the ring are tuned to resonate and increase in amplitude with each round-trip length, then get coupled to the output wavelength. The red colour represents optical power circulating.</em>  </p>
+<em>Figure 1: FDTD Simulation of coupling from microring resonator. The wavelengths that enter the ring are tuned to resonate and increase in amplitude with each round-trip length, then get coupled to the output wavelength. The red colour represents optical power circulating.</em>  </p>    
 
 
---PLACEHOLDER--  
 
-<em>Figure 2: Interconnect eye diagram results. As shown, all 4 channels have clear eye diagrams, demonstrating signal integrity. </em>
+
+<p align="center"><img width="1668" height="445" alt="image" src="https://github.com/user-attachments/assets/75fe3a41-db6f-4181-94a5-a4062a9671ca" /></p>
+
+<p align="center"><em>Figure 2: Eye diagrams of all three channels. </em></p>
 
 
 # Schematic Screenshots
