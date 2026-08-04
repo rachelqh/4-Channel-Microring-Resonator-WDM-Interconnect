@@ -37,7 +37,7 @@ Even after tuning the rings and setting the ONA's perfect frequency for each rin
 <img width="1737" height="1057" alt="IMG_7423" src="https://github.com/user-attachments/assets/423fc2ab-5e9f-40f8-8f63-0833d10d30a9" />
 <p align = "center"><em>Figure 6: Despite my ring tuning, the crosstalk between channels was incredibly high.</em></p>
 
-With the advice of a senior photonic engineer, I was advised to decrease the coupling coefficient from 0.5 to 0.05, which caused the ring to produce narrower resonance peaks (shown visually in figure 8), essentially meaning that a smaller range of wavelengths would couple into the ring. The crosstalk improved significantly, as shown in figure 7.
+With the advice of a senior photonic engineer, the coupling coefficient was reduced from 0.5 to 0.05. This produced narrower resonance peaks (Figure 8), increasing the wavelength selectivity of each microring resonator. Because each ring responded to a smaller range of wavelengths, adjacent channels were less likely to couple into the wrong resonator, significantly reducing crosstalk. The resulting improvement in signal integrity can be seen in the eye diagrams shown in Figure 7.
 
 <img width="1602" height="545" alt="IMG_7424" src="https://github.com/user-attachments/assets/cdb1054e-de5d-4353-aaa2-15581ad3e1a5" />
 <p align = "center"><em>Figure 7: Improved eye diagrams of both channels after decreasing coupling coefficient.</em></p>
