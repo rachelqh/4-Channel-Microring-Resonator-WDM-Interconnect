@@ -34,5 +34,24 @@ Based on the centre ring's transmission spectrum, I chose the frequency where tr
 # Signal Integrity Debugging
 
 Even after tuning the rings and setting the ONA's perfect frequency for each ring, the cross talk between channels was incredibly high, as shown in figure 6.
+<img width="1737" height="1057" alt="IMG_7423" src="https://github.com/user-attachments/assets/423fc2ab-5e9f-40f8-8f63-0833d10d30a9" />
+<p align = "center"><em>Figure 6: Despite my ring tuning, the crosstalk between channels was incredibly high.</em></p>
 
-With the advice of a senior photonic engineer, I was advised to increase the coupling coefficient which would 
+With the advice of a senior photonic engineer, I was advised to decrease the coupling coefficient from 0.5 to 0.05, which caused the ring to produce narrower resonance peaks (shown visually in figure 8), essentially meaning that a smaller range of wavelengths would couple into the ring. The crosstalk improved significantly, as shown in figure 7.
+
+<img width="1602" height="545" alt="IMG_7424" src="https://github.com/user-attachments/assets/cdb1054e-de5d-4353-aaa2-15581ad3e1a5" />
+<p align = "center"><em>Figure 7: Improved eye diagrams of both channels after decreasing coupling coefficient.</em></p>
+
+<img width="1387" height="368" alt="image" src="https://github.com/user-attachments/assets/5b5e9cf7-71c9-49cd-941a-d673f78dec39" />
+<p align = "center"><em>Figure 8: Transmission spectrum with coupling coefficient of 0.05 (left) and coupling coefficient of 0.5 (right).</em></p>
+
+# Final results
+The resulting eye diagrams of the three working channels. They show relatively clear communication.
+
+<img width="1668" height="445" alt="image" src="https://github.com/user-attachments/assets/79563d1e-aefd-4061-8c53-909ef049ca6c" />
+<p align = "center"><em>Figure 8: All three final eye diagrams, showing signal integrity</em></p>
+
+# Future Improvements
+In the future, more channels to demonstrate scalability to the originally proposed 13 channel communication should be explored.
+
+
